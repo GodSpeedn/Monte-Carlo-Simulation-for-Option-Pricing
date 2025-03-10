@@ -54,4 +54,4 @@ The Monte Carlo price (~$8.05) and antithetic version (~$8.03) closely match the
 - Parameter sensitivity analysis (e.g., price vs. volatility).
 
 ## Author
-[Your Name] - 3rd-year CS student aiming for a quant graduate role.
+Narayan - 3rd-year CS student aiming for a quant graduate role. March/2025
